@@ -1,3 +1,5 @@
+package LABA1;
+
 import java.util.Scanner;
 
 public class task4 {
