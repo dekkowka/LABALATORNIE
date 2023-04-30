@@ -1,6 +1,6 @@
-package com.example.testrestservicee1.service;
+package com.example.testrestservicee.service;
 
-import com.example.testrestservicee1.model.Response;
+import com.example.testrestservicee.model.Response;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Service;
 
@@ -14,3 +14,5 @@ public class ModifyUid implements MyModifyService {
     }
 
 }
+
+

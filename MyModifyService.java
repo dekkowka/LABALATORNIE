@@ -1,7 +1,8 @@
-package com.example.testrestservicee1.service;
+package com.example.testrestservicee.service;
 
-import com.example.testrestservicee1.model.Response;
+import com.example.testrestservicee.model.Response;
 
 public interface MyModifyService {
     Response modify(Response response);
 }
+
